@@ -1,0 +1,10 @@
+MERN:::
+M :: mongo (database)(non-relational database)
+E :: ExpressJs (node)
+R :: React  (frontend)
+N :: NodeJs (backend)
+
+
+middleware?
+means we do somethong befor accessing any page ( means to check 
+some authentication to view that page)
